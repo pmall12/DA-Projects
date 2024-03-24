@@ -17,3 +17,7 @@ Tooltips on PI cards and Visuals to Analysis data monthly or yearly
 
 Report Filters:
 Report Refresh Button + Year filter + Growth Filter.
+
+##Visuals
+
+![Finance Dashboard](https://github.com/pmall12/DA-Projects/assets/164786258/70487f1b-4074-40fd-aa64-374d1fc30c9f)
